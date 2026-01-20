@@ -13,7 +13,10 @@ Decisiones de arquitectura, definición de límites entre backend y frontend, bu
 Ciencia de Datos (Lic. en Ciencia de Datos – UGR), patrones más profundos de JavaScript y Node.js, diseño de APIs y, sobre todo, a pensar en sistemas en lugar de funciones aisladas: unir lógica, UX y necesidades reales. <br><br>
 
 💬 Podés preguntarme sobre <br>
-Aplicaciones web full-stack, cómo traducir procesos reales en software, sistemas con roles y permisos, diseño de APIs, UX para usuarios no técnicos y cóm
+Aplicaciones web full-stack, cómo traducir procesos reales en software, sistemas con roles y permisos, diseño de APIs, UX para usuarios no técnicos y cómo construir tecnología que sea funcional y humana a la vez. <br><br>
+
+✨ Fun fact <br>
+Abordo el software como un sistema vivo: cada parte debe tener un propósito claro, una relación coherente con el resto y una lógica que se sostenga incluso bajo presión.
 
 
 
