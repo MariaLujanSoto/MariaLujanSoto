@@ -1,8 +1,23 @@
-# 💫 About Me:
-🔨 I’m currently working on  <br>SIGCET 2.0 (front + back), refining roles, permissions and UX for real-world inventory workflows.  <br><br>🤝 I’m looking to collaborate on  <br>Open-source or educational projects related to web development, data, or tools that help people work better.<br><br>🧩 I’m looking for help with  <br>Improving architecture decisions, clean code practices, and scaling projects without losing clarity.<br><br>🌱 I’m currently learning  <br>Data Science (Lic. en Ciencia de Datos – UGR), deeper JavaScript/Node patterns, and how to think more in systems than in isolated features.<br><br>💬 Ask me about  <br>Full-stack web apps, real-life software needs, narrative design, worldbuilding, or how tech and storytelling can coexist.<br><br>
+# 👩‍💻 Sobre mí:
+
+🔨 En qué estoy trabajando actualmente <br>
+SIGCET 2.0 (front + back), un sistema real de gestión e inventario. Me enfoco en refinar permisos por rol, estructura de APIs, flujos de impresión y exportación, y la experiencia de uso en contextos institucionales cotidianos. Busco crear software que sea realmente usable para personas no técnicas, manteniendo una base de código limpia, clara y escalable. <br><br>
+
+🤝 Con qué me gustaría colaborar <br>
+Proyectos open-source o educativos relacionados con desarrollo web, datos o herramientas que ayuden a las personas a trabajar mejor en entornos reales. Me interesan especialmente los proyectos con impacto práctico más allá de simples demostraciones técnicas. <br><br>
+
+🧩 En qué busco ayuda <br>
+Decisiones de arquitectura, definición de límites entre backend y frontend, buenas prácticas de clean code y estrategias para escalar proyectos sin perder claridad ni estructura. <br><br>
+
+🌱 Qué estoy aprendiendo <br>
+Ciencia de Datos (Lic. en Ciencia de Datos – UGR), patrones más profundos de JavaScript y Node.js, diseño de APIs y, sobre todo, a pensar en sistemas en lugar de funciones aisladas: unir lógica, UX y necesidades reales. <br><br>
+
+💬 Podés preguntarme sobre <br>
+Aplicaciones web full-stack, cómo traducir procesos reales en software, sistemas con roles y permisos, diseño de APIs, UX para usuarios no técnicos y cóm
 
 
-## 🌐 Socials:
+
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marialujansoto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lujisotoflores@outlook.es) 
 
 # 💻 Tech Stack:
