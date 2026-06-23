@@ -1,23 +1,42 @@
-# 👩‍💻 Sobre mí:
+# 👩‍💻 Sobre mí
 
-🔨 En qué estoy trabajando actualmente <br>
-SIGCET 2.0 (front + back), un sistema real de gestión e inventario. Me enfoco en refinar permisos por rol, estructura de APIs, flujos de impresión y exportación, y la experiencia de uso en contextos institucionales cotidianos. Busco crear software que sea realmente usable para personas no técnicas, manteniendo una base de código limpia, clara y escalable. <br><br>
+## 🚀 Actualmente
 
-🤝 Con qué me gustaría colaborar <br>
-Proyectos open-source o educativos relacionados con desarrollo web, datos o herramientas que ayuden a las personas a trabajar mejor en entornos reales. Me interesan especialmente los proyectos con impacto práctico más allá de simples demostraciones técnicas. <br><br>
+Soy Analista de Sistemas con experiencia en desarrollo web full stack, bases de datos y soporte técnico IT. Participé en el diseño, arquitectura e implementación de SIGCET 2.0, un sistema interno de gestión e inventario desarrollado para uso institucional real.
 
-🧩 En qué busco ayuda <br>
-Decisiones de arquitectura, definición de límites entre backend y frontend, buenas prácticas de clean code y estrategias para escalar proyectos sin perder claridad ni estructura. <br><br>
+Me interesa construir software útil para las personas, combinando desarrollo, análisis de procesos y experiencia de usuario para resolver problemas concretos de manera simple y sostenible.
 
-🌱 Qué estoy aprendiendo <br>
-Ciencia de Datos (Lic. en Ciencia de Datos – UGR), patrones más profundos de JavaScript y Node.js, diseño de APIs y, sobre todo, a pensar en sistemas en lugar de funciones aisladas: unir lógica, UX y necesidades reales. <br><br>
+## 🤝 Me gustaría colaborar en
 
-💬 Podés preguntarme sobre <br>
-Aplicaciones web full-stack, cómo traducir procesos reales en software, sistemas con roles y permisos, diseño de APIs, UX para usuarios no técnicos y cómo construir tecnología que sea funcional y humana a la vez. <br><br>
+Proyectos relacionados con desarrollo web, sistemas de gestión, automatización de procesos, análisis de datos y herramientas que generen impacto en entornos reales.
 
-✨ Fun fact <br>
-Abordo el software como un sistema vivo: cada parte debe tener un propósito claro, una relación coherente con el resto y una lógica que se sostenga incluso bajo presión.
+Disfruto especialmente trabajar en soluciones donde la tecnología debe adaptarse a las necesidades de usuarios no técnicos.
 
+## 📚 Actualmente aprendiendo
+
+* Ciencia de Datos y Estadística
+* Arquitectura de aplicaciones
+* Diseño y consumo de APIs
+* Buenas prácticas de desarrollo y mantenimiento de software
+* Python aplicado al análisis de datos e inteligencia artificial
+
+## 💡 Podés preguntarme sobre
+
+* Node.js, Express y JavaScript
+* SQL y MariaDB
+* Desarrollo de sistemas de gestión
+* Modelado de bases de datos
+* Roles y permisos en aplicaciones
+* Soporte técnico e infraestructura básica
+* Transformar procesos reales en soluciones de software
+
+## 🎯 Mi enfoque
+
+Me gusta pensar el software como un sistema completo y no como funcionalidades aisladas. Busco desarrollar soluciones claras, mantenibles y orientadas a las personas que realmente las van a utilizar.
+
+## 🌎 Intereses
+
+Desarrollo de software • Ciencia de Datos • Inteligencia Artificial • UX para sistemas internos • Automatización • Tecnología con impacto real
 
 
 ## 🌐 Redes:
